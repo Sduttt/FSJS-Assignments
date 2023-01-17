@@ -8,6 +8,6 @@
 6. **CSS Grid**
 7. **Media Query** 
 8. **[JavaScript Array and it’s methods](https://sdutta.hashnode.dev/array-and-its-methods-in-javascript)**
-9. **JavaScript Object and it’s method**
+9. **[JavaScript Object and it’s method](https://sdutta.hashnode.dev/object-in-javascript)**
 10. **JavaScript Functions**
-11. **Flow of code execution in JavaScript**
+11. **[Flow of code execution in JavaScript](https://sdutta.hashnode.dev/hoisting-in-javascript)**
